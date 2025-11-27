@@ -12,5 +12,5 @@ window.SITE_CONFIG = {
     saturday: 'SATURDAY: 12PM - 12AM',
     sunday: 'SUNDAY: 12PM - 11PM'
   },
-  facebookDomainVerification: 'htc93c242cspng4nspahnad95t4nux'
+  facebookDomainVerification: '8b8z52nfnuf6yukx5kkwb9sr6g11eu'
 };
